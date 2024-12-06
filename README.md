@@ -35,7 +35,6 @@ Run the code and explore!
 
 - [DataCamp Associate Data Scientist Certification](https://www.datacamp.com)
 - [Python Documentation](https://docs.python.org/3/)
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
 
 ## 📝 License
 
