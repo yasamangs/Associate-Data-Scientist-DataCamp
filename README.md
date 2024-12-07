@@ -10,9 +10,9 @@ The repository is organized into the following directories:
   - Jupyter notebooks or scripts with the implementation.
   - Relevant datasets.
 
-## 🛠️ Skills Covered
+## 🛠️ Topic Covered
 
-- **Data Analysis**: Hands-on experience with Python libraries such as `pandas`, `NumPy`, and `Matplotlib`.
+- **Exploratory Analysis**: Hands-on experience with Python libraries such as `pandas`, `NumPy`, and `Matplotlib`.
 - **Machine Learning**: Implementation of classification, regression, and clustering algorithms using `scikit-learn`.
 - **Data Wrangling**: Cleaning and transforming raw data into useful formats.
 - **Statistical Methods**: Applying statistical tests and probability concepts.
